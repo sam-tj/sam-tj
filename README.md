@@ -1,6 +1,11 @@
-### Hi there 👋
+
+<h1 align="center"><code>Hello 👋</code></h1>
+<p align="center"><img align="center" src="https://media.giphy.com/media/W4opKS2N7pIAI69ehc/giphy.gif"/></p>
 
 <!--
+### Hi there 👋
+
+
 **sam-tj/sam-tj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
