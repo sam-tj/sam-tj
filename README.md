@@ -2,6 +2,8 @@
 <h1 align="center"><code>Hello 👋</code></h1>
 <p align="center"><img align="center" src="https://media.giphy.com/media/W4opKS2N7pIAI69ehc/giphy.gif"/></p>
 
+Wanna know me, [click here 🐱‍👤](https://sam-tj.github.io/ "click here 🐱‍👤")
+
 <!--
 ### Hi there 👋
 
