@@ -2,8 +2,6 @@
 <h1 align="center"><code>Hello 👋</code></h1>
 <p align="center"><img align="center" src="https://media.giphy.com/media/W4opKS2N7pIAI69ehc/giphy.gif"/></p>
 
-<script src="https://raw.githubusercontent.com/sam-tj/sam-tj.github.io/master/schon_quotes/main.dart.js" type="application/javascript"></script>
-
 <!--
 ### Hi there 👋
 
